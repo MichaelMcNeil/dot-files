@@ -21,4 +21,4 @@ set nowrap
 
 set mouse=a
 
-:source ~/python.vim
+:source ~/.python.vim
